@@ -42,6 +42,26 @@ Captions: B1–B4 and B6 single-line; B5 up to three semantic lines. Apply fixed
 
 All B styles: native **16:9 and 9:16**, under the [dual-format gate](references/autopilot-production-qa.md#native-landscape-and-portrait). For **B1–B3 portrait**, also read the [native portrait contract](references/b1-b2-b3-native-portrait.md): ratio-specific readable captions, authored per-shot focal regions, safe-area/visible-action checks and independent 1× phone-size review are required. Use the approved internal 10-second B1/B2/B3 portrait samples as effect targets alongside the landscape references; B1 retains its handwritten hierarchy and sequential element builds, while B2/B3 retain their original visual languages. They are not additional README showcases. Their exact-clip user approval, technical diagnostics and each new output's independent review remain separate; an engineering render does not establish portrait acceptance.
 
+## AUTHENTIC DEEN — Islamic content mandatory policy
+
+Whenever the task concerns Islamic educational content, Islamic history, Hadith, Qur'an or AUTHENTIC DEEN:
+
+1. Read `AUTHENTIC_DEEN_RULES.md` before planning.
+2. Treat it as mandatory production policy.
+3. Verify Islamic claims before scripting.
+4. Apply the visual restrictions to every generated scene.
+5. Validate all prompts before sending them to image or video generation tools.
+6. Review actual rendered outputs for visual violations.
+7. Never override these rules merely to satisfy a stylistic preference.
+
+`AUTHENTIC_DEEN_RULES.md` is the single canonical source at the repository root. Do not duplicate it in multiple locations.
+
+Core visual rule: every AUTHENTIC DEEN output must use minimalist 2D stickman animation with completely faceless characters, no facial features (no eyes, nose, mouth, expressions), no realistic humans, no photography, no photorealism, and no Prophet or Messenger depiction. Prophet-related topics use environmental and symbolic storytelling only (empty roads, footsteps, mountains, buildings, light and shadows, actions and consequences, narration and typography).
+
+Default AUTHENTIC DEEN production: 9:16 portrait, 30–90 seconds, voice-over storytelling, minimalist 2D stickman animation, completely faceless characters, simple illustrated environments, educational and respectful tone.
+
+Core principles: AUTHENTICITY > VIRALITY · ACCURACY > DRAMA · TRUST > ENTERTAINMENT.
+
 ## First use and next steps
 
 Read [first-use and stage guidance](references/getting-started.md) after verified installation or on first invocation. Use the conversation/requested guidance language independently of video language or README edition. Reuse choices; do not replay welcome or add approvals. Follow **A5 proactive character guidance** and **Optional A character references** there without changing voice rules.

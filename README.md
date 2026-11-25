@@ -262,6 +262,20 @@ Create a thumbnail, video title, description, and pinned comment for the video w
 
 The AI will generate a matching thumbnail, video title, description, and pinned comment in one step, without switching modes or reconfiguring your setup.
 
+## 🕌 AUTHENTIC DEEN — Islamic educational video production
+
+This repository can be configured for **AUTHENTIC DEEN**, a dedicated Islamic educational video brand producing trustworthy faceless stickman videos for Instagram Reels, YouTube Shorts and similar platforms.
+
+**Default settings:** 9:16 portrait · 30–90 seconds · voice-over storytelling · minimalist 2D stickman animation · completely faceless characters · simple illustrated environments · educational and respectful tone.
+
+**Mandatory rules** are defined in [`AUTHENTIC_DEEN_RULES.md`](AUTHENTIC_DEEN_RULES.md). They cover Islamic authenticity, Hadith verification, Qur'an verification, no fabricated historical dialogue, absolute visual restrictions (no faces, no facial features, no realistic humans, no photography, no photorealism), absolute Prophet prohibition (no depiction of Prophet Muhammad ﷺ or any other Prophet/Messenger), Sahabah and historical people treatment, backgrounds, story structure, script quality, no sensationalism, research-first workflow, video output requirements, prompt enforcement for image/video generation, and a final quality assurance checklist.
+
+**Core principles:** AUTHENTICITY > VIRALITY · ACCURACY > DRAMA · TRUST > ENTERTAINMENT.
+
+**Never:** invent Hadith, Qur'an verses, Prophet stories, Sahabah stories, Islamic history, quotes, scholar statements, miracles, conversations, dates, locations, Hadith numbers, narrators, or religious rulings. Never depict any Prophet or Messenger. Never show human faces or facial features.
+
+If your task concerns Islamic educational content, Islamic history, Hadith, Qur'an or AUTHENTIC DEEN, read `AUTHENTIC_DEEN_RULES.md` before planning and treat it as mandatory production policy.
+
 <a id="style-gallery"></a>
 
 <a id="a-styles"></a>
